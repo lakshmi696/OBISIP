@@ -1,3 +1,4 @@
+![PLP](https://user-images.githubusercontent.com/108932181/225537135-708d93fe-82e8-4d51-ae43-49901e072fb3.PNG)
 # OBISIP
 TASK-1 ♥LANDING PAGE♥
 Product Landing Page
@@ -18,3 +19,4 @@ Product 4: Artisanal Macarons
 Our artisanal macarons are a delightful combination of light, fluffy meringue and creamy ganache. Our macarons come in a variety of flavors, including raspberry, pistachio, and chocolate, and are the perfect dessert for any occasion. Whether you're looking for a sweet treat to enjoy with a cup of tea or as a dessert at your next dinner party, our macarons are sure to impress.
 
 Thank you for considering our Sweet Products. We hope that you'll give them a try and discover the perfect sweet treat for you.♥
+![PLP](https://user-images.githubusercontent.com/108932181/225537198-56dcf678-3c4c-455a-a0db-ededab245cfb.PNG)
