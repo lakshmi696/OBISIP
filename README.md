@@ -1,4 +1,3 @@
-![PLP](https://user-images.githubusercontent.com/108932181/225537135-708d93fe-82e8-4d51-ae43-49901e072fb3.PNG)
 # OBISIP
 TASK-1 ♥LANDING PAGE♥
 Product Landing Page
