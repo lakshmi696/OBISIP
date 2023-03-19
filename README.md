@@ -19,3 +19,7 @@ Our artisanal macarons are a delightful combination of light, fluffy meringue an
 
 Thank you for considering our Sweet Products. We hope that you'll give them a try and discover the perfect sweet treat for you.♥
 ![PLP](https://user-images.githubusercontent.com/108932181/225537198-56dcf678-3c4c-455a-a0db-ededab245cfb.PNG)
+Task 1.2
+♥Personal Portfolio Website♥
+
+![portfolio](https://user-images.githubusercontent.com/108932181/226195012-b696a827-b199-4f72-9e3d-db4734da3e60.PNG)
